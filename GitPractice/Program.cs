@@ -10,7 +10,11 @@ namespace GitPractice
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
 
+=======
+            //                           :D - hey
+>>>>>>> fc76e822770636b993a57a9a3ba70df25e54fd71
         }
     }
 }
